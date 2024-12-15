@@ -1,4 +1,4 @@
-# SchedEase--C-Project
+# SchedEase-C++ Project
 SchedEase is a C++ console app that displays your daily class schedule. Enter a day to view subjects, instructors, timings, and room details. Group-specific schedules (X/Y) and break times are included. With input validation and clear formatting, SchedEase helps you stay organized and manage your routine effortlessly.
 
 The application is highly interactive and ensures accuracy by validating user inputs. For instance, if the schedule involves group-specific classes (Group X or Y), the program prompts the user to enter their group and displays tailored class details accordingly. It also accounts for breaks such as refreshment or Namaz time to give a realistic and complete schedule view.
